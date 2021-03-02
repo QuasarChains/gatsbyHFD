@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>The Hard Fork Diner (TypeScript) API</title>
       </Helmet>
-      <h1>THe Hard Fork Diner (TypeScript) API</h1>
+      <h1>THe Hard Fork Diner </h1>
       <h2>
         Deployed with{' '}
         <a
