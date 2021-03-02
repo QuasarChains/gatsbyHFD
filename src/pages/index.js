@@ -19,9 +19,9 @@ function Index() {
       </Helmet>
       <h1>The Hard Fork Diner </h1>
       <h2>
-        Deployed with{' '}
+        Now Serving Cardano Crepes{' '}
         <a
-          href="https://vercel.com/docs"
+          href="https://forum.cardano.org/"
           target="_blank"
           rel="noreferrer noopener"
         >
