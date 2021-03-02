@@ -19,13 +19,13 @@ function Index() {
       </Helmet>
       <h1>The Hard Fork Diner </h1>
       <h2>
-        Now Serving Cardano Crepes{' '}
+        Now Serving Cardano{' '}
         <a
           href="https://forum.cardano.org/"
           target="_blank"
           rel="noreferrer noopener"
         >
-          Vercel
+          Crepes
         </a>
         !
       </h2>
