@@ -42,7 +42,7 @@ function Index() {
         which will finance the future{' '}
         <a href="https://docs.cardano.org/en/latest/">Node.js (TypeScript)</a> function. See{' '}
         <a href="/api/date">
-          <code>api/date</code> Making The World Better for All (TypeScript)
+          <code>api/date</code> Making The World Better for All 
         </a>
         .
       </p>
