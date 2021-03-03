@@ -40,7 +40,7 @@ function Index() {
         is open <a href="https://cardano.org/">for Business</a> with two
         options, <code>/Cardano</code> for a new Social Operating System and <code>/$ADA</code>{' '}
         which will finance the future{' '}
-        <a href="https://docs.cardano.org/en/latest/">Node.js (TypeScript)</a> function. See{' '}
+        <a href="https://docs.cardano.org/en/latest/">economy</a> function. See{' '}
         <a href="/api/date">
           <code>api/date</code> Making The World Better for All 
         </a>
