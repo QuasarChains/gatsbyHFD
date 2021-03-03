@@ -25,29 +25,29 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Crepes
+          Coffee
         </a>
         !
       </h2>
       <p>
         <a
-          href="https://github.com/vercel/vercel/tree/master/examples/gatsby"
+          href="https://cardano.ideascale.com/"
           target="_blank"
           rel="noreferrer noopener"
         >
-          This project
+          Our New Location
         </a>{' '}
-        is a <a href="https://www.gatsbyjs.org/">Gatsby</a> app with two
-        directories, <code>/src</code> for static content and <code>/api</code>{' '}
-        which contains a serverless{' '}
-        <a href="https://nodejs.org/en/">Node.js (TypeScript)</a> function. See{' '}
+        is open <a href="https://cardano.org/">for Business</a> with two
+        options, <code>/Cardano</code> for a new Social Operating System and <code>/$ADA</code>{' '}
+        which will finance the future{' '}
+        <a href="https://docs.cardano.org/en/latest/">Node.js (TypeScript)</a> function. See{' '}
         <a href="/api/date">
-          <code>api/date</code> for the Date API with Node.js (TypeScript)
+          <code>api/date</code> Making The World Better for All (TypeScript)
         </a>
         .
       </p>
       <br />
-      <h2>The date according to Node.js (TypeScript) is:</h2>
+      <h2>The last time you visited this page was tomorrow :</h2>
       <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
