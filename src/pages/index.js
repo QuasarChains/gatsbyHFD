@@ -17,15 +17,15 @@ function Index() {
       <Helmet>
         <title>The Hard Fork Diner (TypeScript) API</title>
       </Helmet>
-      <h1>The Hard Fork Diner </h1>
+      <h1>These Walled Gardens </h1>
       <h2>
-        Now Serving Cardano{' '}
+        Can you emancipate yourself from{' '}
         <a
           href="https://forum.cardano.org/"
           target="_blank"
           rel="noreferrer noopener"
         >
-          Coffee
+          The system
         </a>
         !
       </h2>
@@ -35,17 +35,16 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Our New Location
+          There are people that can help
         </a>{' '}
-        is open <a href="https://cardano.org/">for Business</a> with two
-        options, <code>/Cardano</code> for a new Social Operating System and <code>/$ADA</code>{' '}
+        you escape <a href="https://cardano.org/">the system</a> of
+        control, <code>/Cardano</code> and enter a new Social Operating System <code>/$ADA</code>{' '}
         which will finance the future{' '}
-        <a href="https://docs.cardano.org/en/latest/">economy</a> function. See{' '}
+        <a href="https://docs.cardano.org/en/latest/">economy</a> See{' '}
         <a href="/api/date">
           <code>api/date</code> Making The World Better for All 
-        </a>
-        .
-      </p>
+        </a>      
+       </p>
       <br />
       <h2>The last time you visited this page was tomorrow :</h2>
       <p>{date ? date : 'Loading date...'}</p>
