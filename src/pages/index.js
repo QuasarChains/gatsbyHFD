@@ -15,7 +15,7 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>The Hard Fork Diner (TypeScript) API</title>
+        <title>Welcome to </title>
       </Helmet>
       <h1>These Walled Gardens </h1>
       <h2>
